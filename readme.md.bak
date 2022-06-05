@@ -20,7 +20,7 @@ $ az login (Privilged account will be needed)
 
 ```
 
-I really like to use environment variables. So if you want to change name of anything, just do it, actually you might want to change accname for unique name rule.
+I really like to use environment variables. So if you want to change name of anything, just do it.
 
 ```
 
