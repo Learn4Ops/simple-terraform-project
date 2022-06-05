@@ -60,6 +60,6 @@ Clear everything
 
 $ terraform destroy -var-file=testing.tfvars --auto-approve
 
-$ az group delete -n $rg
+$ az group delete -n $rg -y
 
 ```
