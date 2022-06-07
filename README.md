@@ -9,6 +9,8 @@ If you want to deploy and test this configuration just follow the related steps:
 
 * terraform
 
+* bash
+
 
 Let's quickly start  create resource group and storage account via azure cli!
 
